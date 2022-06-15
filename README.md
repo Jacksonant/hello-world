@@ -6,3 +6,5 @@ I'm learning
 - HTML
 - CSS
 - JS
+
+I made some changes and content
